@@ -11,7 +11,6 @@
 	<stop  offset="0.9227" style="stop-color:#BFC0C2"/>
 	<stop  offset="1" style="stop-color:#A7A9AC"/>
 </radialGradient>
-<rect x="-0.001" y="-0.002" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);" width="113.386" height="113.386"/>
 <g>
 	<g>
 		<path style="fill-rule:evenodd;clip-rule:evenodd;" d="M65.426,41.096c0.179-0.029,0.274,0.024,0.27,0.179
@@ -8784,3 +8783,4 @@
 		C70.072,80.721,70.108,80.611,70.047,80.599z"/>
 </g>
 </svg>
+
